@@ -1,0 +1,11 @@
+{
+  "name": "Website",
+  "private": true,
+  "dependencies": {
+    "Font-Awesome": "5.2.0",
+    "bootstrap": "v4.1.3",
+    "jquery-validation": "1.17.0",
+    "jquery-validation-unobtrusive": "v3.2.10",
+    "jQuery": "3.3.1"
+  }
+}
