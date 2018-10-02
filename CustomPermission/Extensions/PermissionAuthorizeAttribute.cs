@@ -17,5 +17,6 @@ namespace CustomPermission.Extensions
             var resourceName = string.Format("{0}====={1}", permissionSet, permissionValue);
             Policy = resourceName;
         }
+
     }
 }
